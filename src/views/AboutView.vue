@@ -6,101 +6,82 @@ export default {
       tech: [
         {
           id: 1,
-          name: 'HTML',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
+          name: 'Kotlin',
+          imageUrl: 'https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg',
           status: 'Advanced'
         },
         {
           id: 2,
-          name: 'CSS',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
-          status: 'Advanced'
+          name: 'Flutter',
+          imageUrl: 'https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000',
+          status: 'Intermediate'
         },
         {
           id: 3,
-          name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Advanced'
+          name: 'Compose',
+          imageUrl: 'https://miro.medium.com/v2/resize:fit:1400/0*By3pK69IFk_RqbF3.png',
+          status: 'Intermediate'
         },
         {
           id: 4,
-          name: 'Javascript',
-          imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
-          status: 'Advance'
+          name: 'Java',
+          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png',
+          status: 'Intermediate'
         },
         {
           id: 5,
-          name: 'Laravel',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          name: 'Firebase',
+          imageUrl: 'https://avatars.githubusercontent.com/u/1335026?s=200&v=4',
+          status: 'Beginner'
         },
         {
           id: 6,
-          name: 'Codeigniter',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 7,
-          name: 'VueJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
-        },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
-        {
-          id: 9,
-          name: 'NodeJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
-          status: 'Beginner'
-        },
-        {
-          id: 10,
-          name: 'Tailwind',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
-        },
-        {
-          id: 11,
-          name: 'Bootstrap',
-          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 12,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          name: 'TF Lite',
+          imageUrl: 'https://codelabs.tf.wiki/codelabs/recognize-flowers-with-tensorflow-on-android/img/657431be3173fa86.png',
           status: 'Beginner'
         }
       ],
       tools: [
         {
           id: 1,
-          name: 'Git',
-          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
-          status: 'Version Control'
+          name: 'Android Studio',
+          imageUrl: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png',
+          status: 'Code Editor'
         },
         {
           id: 2,
+          name: 'Figma',
+          imageUrl: 'https://seekvectors.com/storage/images/Figma-01.svg',
+          status: 'Design Tool '
+        },
+        {
+          id: 3,
           name: 'GitHub',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
           status: 'Git Hosting'
         },
         {
-          id: 3,
-          name: 'NPM',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
-          status: 'Package Manager'
+          id: 4,
+          name: 'Git',
+          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+          status: 'Version Control'
+        }
+      ],
+      socials: [
+        {
+          name: 'LinkedIn',
+          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498418.png?f=webp&w=256',
+          link: 'https://www.linkedin.com/in/muhammad-dzaki-arrozaq-62718021b/'
         },
         {
-          id: 4,
-          name: 'MySQL',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
-          status: 'Database'
+          name: 'Instagram',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png',
+          link: 'https://instagram.com/dzakijoo'
+        },
+        {
+          name: 'Spotify',
+          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-spotify-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147690.png?f=webp&w=128',
+          link: 'https://open.spotify.com/user/31tdh6aq4to2ng3bfexhvlucc7bm?si=d776e6d7b6e14f70'
         },
       ]
     };
@@ -123,24 +104,26 @@ export default {
       <section
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
-          <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+          <img class="w-9/12 max-w-[450px] rounded-full mb-3 fadein-up"
+            src="img/protfolio-about.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; Hi everyone! I'm Muhammad Dzaki Arrozaq, a Computer Science student focusing on Information Technology at 
+            Universitas Negeri Semarang. I'm passionate about mobile development, especially Android, and I also have a strong interest in 
+            UI/UX design. I love creating apps that look great and are easy for people to use.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; Collaborating to make impactful, user-friendly apps is what excites me, and I’m known for my fresh ideas 
+            and staying calm under pressure. I'm always eager to keep growing in mobile development and connect with others who share similar 
+            passions in this fast-moving field!
           </p>
+          <div class="flex justify-center gap-5 mt-5 fadein-left fadeins-3">
+            <a v-for="social in socials" :key="social.name" :href="social.link" target="_blank" rel="noopener noreferrer"
+               class="hover:opacity-80 transition-opacity">
+              <img :src="social.imageUrl" :alt="social.name" class="w-8 h-8">
+            </a>
+          </div>
         </div>
 
       </section>
@@ -241,6 +224,10 @@ export default {
 
 .fadeins-2 {
   animation-delay: 800ms;
+}
+
+.fadeins-3 {
+  animation-delay: 1200ms;
 }
 
 .img-tech,
