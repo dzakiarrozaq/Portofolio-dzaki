@@ -57,7 +57,7 @@ export default {
         {
           id: 3,
           name: 'GitHub',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+          imageUrl: 'https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png',
           status: 'Git Hosting'
         },
         {
@@ -82,6 +82,11 @@ export default {
           name: 'Spotify',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-spotify-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-pack-logos-icons-3147690.png?f=webp&w=128',
           link: 'https://open.spotify.com/user/31tdh6aq4to2ng3bfexhvlucc7bm?si=d776e6d7b6e14f70'
+        },
+        {
+          name: 'Email',
+          imageUrl: 'https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png',
+          link: 'mailto:dzakiarrozaq21@gmail.com'
         },
       ]
     };

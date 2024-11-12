@@ -10,11 +10,20 @@ export default {
           imageUrl: 'web.jpg',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          github: 'https://github.com/dzakiarrozaq/Portofolio-dzaki.git',
+          demo: 'https://dzakiarrozaq.netlify.app/'
         },
         {
           id: 2,
+          name: 'Upcycle',
+          imageUrl: 'upcycle.jpg',
+          status: 'UPCYCLE utilizes image classification technology to identify user-uploaded trash images, offering creative upcycling ideas tailored to the type of waste identified.',
+          tech: 'Kotlin, TF Lite',
+          github: 'https://github.com/dzakiarrozaq/Upcycle.git',
+          demo: 'null'
+        },
+        {
+          id: 3,
           name: 'Pijar',
           imageUrl: 'pijar.jpg',
           status: 'A UI/UX design prototype created for Pijar charity music event, incorporating a ticketing system and aunique token-based donation feature for seamless payment processing.',
@@ -23,22 +32,13 @@ export default {
           demo: 'https://www.figma.com/design/k8hDnObXLurz8QhWPXXnAI/training?node-id=0-1&t=Oyd55OVhPGbWGY6w-1'
         },
         {
-          id: 3,
+          id: 4,
           name: 'Be With Us',
           imageUrl: 'Be with us.jpg',
           status: 'BeWithUs is a mobile application dedicated to the intersection of womens health and well-being It addresses mental health concerns. I developed this application as part of a team for the GEMASTIK competition.',
           tech: 'Figma',
           github: 'null',
           demo: 'https://www.figma.com/design/1KRajniH47ka4JZJ47Lctz/Gemastik?node-id=0-1&t=EeMa7easGN4jrWYL-1'
-        },
-        {
-          id: 4,
-          name: 'Upcycle',
-          imageUrl: 'upcycle.jpg',
-          status: 'UPCYCLE utilizes image classification technology to identify user-uploaded trash images, offering creative upcycling ideas tailored to the type of waste identified.',
-          tech: 'Kotlin, TF Lite',
-          github: 'https://github.com/dzakiarrozaq/Upcycle.git',
-          demo: 'null'
         },
         {
           id: 5,
@@ -48,7 +48,7 @@ export default {
           tech: 'Kotlin',
           github: 'https://github.com/dzakiarrozaq/Holiyay.git',
           demo: 'null'
-        }
+        },
       ]
     };
   }
