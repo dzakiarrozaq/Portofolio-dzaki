@@ -123,7 +123,7 @@ export default {
             and staying calm under pressure. I'm always eager to keep growing in mobile development and connect with others who share similar 
             passions in this fast-moving field!
           </p>
-          <div class="flex justify-center gap-5 mt-5 fadein-left fadeins-3">
+          <div class="flex justify-center gap-8 mt-5 fadein-left fadeins-3">
             <a v-for="social in socials" :key="social.name" :href="social.link" target="_blank" rel="noopener noreferrer"
                class="hover:opacity-80 transition-opacity">
               <img :src="social.imageUrl" :alt="social.name" class="w-8 h-8">
