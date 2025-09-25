@@ -49,6 +49,15 @@ export default {
           github: 'https://github.com/dzakiarrozaq/Holiyay.git',
           demo: 'null'
         },
+        {
+          id: 6,
+          name: 'Jasa Influencer Web & Mobile UI/UX Design',
+          imageUrl: 'jasa.jpg',
+          status: 'Designed and prototyped "Jasa Influencer", a job marketplace platform connecting content creators with employers, with a focus on intuitive user experience and responsive design.',
+          tech: 'Figma',
+          github: 'null',
+          demo: 'https://www.figma.com/file/mcZodpgwwum9K7SG4VPsBM/Bersih'
+        },
       ]
     };
   }

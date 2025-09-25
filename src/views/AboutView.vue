@@ -71,7 +71,7 @@ export default {
         {
           name: 'LinkedIn',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498418.png?f=webp&w=256',
-          link: 'https://www.linkedin.com/in/muhammad-dzaki-arrozaq-62718021b/'
+          link: 'https://www.linkedin.com/in/muhammad-dzaki-arrozaq'
         },
         {
           name: 'Instagram',
