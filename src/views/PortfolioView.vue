@@ -62,7 +62,7 @@ export default {
           id: 7,
           name: 'Batik Nitik Classification Web Application',
           imageUrl: 'Batik.jpg',
-          status: 'A web-based application developed as part of my undergraduate thesis, implementing Vision Transformer (ViT) with Locality Self-Attention and Shifted Patch Tokenization for Batik Nitik pattern classification. Designed to support cultural preservation by applying state-of-the-art deep learning methods to traditional Indonesian batik recognition.',
+          status: 'A web application from my undergraduate thesis, using Vision Transformer (ViT) for Batik Nitik pattern classification to support cultural preservation through deep learning.',
           tech: 'Flask',
           github: 'https://github.com/dzakiarrozaq/batik_vit_web',
           demo: 'null'
