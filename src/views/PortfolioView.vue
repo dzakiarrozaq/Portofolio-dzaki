@@ -58,6 +58,15 @@ export default {
           github: 'null',
           demo: 'https://www.figma.com/file/mcZodpgwwum9K7SG4VPsBM/Bersih'
         },
+        {
+          id: 7,
+          name: 'Batik Nitik Classification Web Application',
+          imageUrl: 'Batik.png',
+          status: 'A web-based application developed as part of my undergraduate thesis, implementing Vision Transformer (ViT) with Locality Self-Attention and Shifted Patch Tokenization for Batik Nitik pattern classification. Designed to support cultural preservation by applying state-of-the-art deep learning methods to traditional Indonesian batik recognition.',
+          tech: 'Flask',
+          github: 'https://github.com/dzakiarrozaq/batik_vit_web',
+          demo: 'null'
+        },
       ]
     };
   }
